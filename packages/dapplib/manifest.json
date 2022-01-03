@@ -1,0 +1,26 @@
+{
+    "repository": {},
+    "__outputFolder": null,
+    "blocks": [
+        {
+            "category": "asset_value_tracking",
+            "name": "core-token",
+            "parameters": {
+                "name": "Testoken",
+                "decimals": "2",
+                "supply": "1000000",
+                "symbol": "Ttn"
+            }
+        },
+        {
+            "category": "file_storage",
+            "name": "core-sia",
+            "parameters": {
+                "mode": "single"
+            }
+        }
+    ],
+    "blockchain": "polygon",
+    "language": "solidity",
+    "framework": "vanilla"
+}

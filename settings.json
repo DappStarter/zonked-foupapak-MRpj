@@ -1,0 +1,15 @@
+{
+    "name": "Testoken-dApp",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/vanilla": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Testoken",
+        "/category/asset_value_tracking/core-token/decimals": "2",
+        "/category/asset_value_tracking/core-token/supply": "1000000",
+        "/category/asset_value_tracking/core-token/symbol": "Ttn",
+        "/category/file_storage/core-sia": true,
+        "/category/file_storage/core-sia/mode": "single"
+    }
+}
